@@ -1,4 +1,5 @@
 import { MyCard, MyDivider } from "my-ui-lib-ubicross";
+import { MyTextTitle } from "my-ui-lib-ubicross";
 import "./App.css";
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
       <MyCard>
         <div>dajsjdas</div>
         <MyDivider />
+        <MyTextTitle fontSize={40}>dasdhasg</MyTextTitle>
       </MyCard>
     </div>
   );
