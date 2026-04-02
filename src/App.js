@@ -1,4 +1,4 @@
-import { MyCard, MyDivider } from "my-ui-lib";
+import { MyCard, MyDivider } from "my-ui-lib-ubicross";
 import "./App.css";
 
 function App() {
