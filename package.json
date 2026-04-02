@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "antd": "^5.29.3",
     "i18next": "^25.0.0",
-    "my-ui-lib-ubicross": "^1.0.6",
+    "my-ui-lib-ubicross": "^1.0.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-i18next": "^16.5.8",
